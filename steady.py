@@ -2,7 +2,7 @@ import argparse
 import boto3
 import datetime
 import functools 
-#import pandas as pd
+import pandas as pd
 import statistics 
 import sys
 
